@@ -17,16 +17,10 @@
 * **Python API & 例程代码：** Python语言，支持windows和Linux系统
 工作温度范围：-40 - 85 ℃
 
-<table style="width: 100%;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="Images/PBT223-Fixed top view.png" style="height: 150;">
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="Images/PBT223-Fixed top view.png" style="height: 150;">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center;">
+  <img src="Images/PBT223-Fixed%20top%20view.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
+  <img src="Images/PBT223-ADJ-DAC-4095.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
+</div>
 
 
 ## 产品选型表
@@ -48,55 +42,58 @@
 
 ## 通讯协议
 ### 读指令
-<div style="text-align: center; margin: 10px;">
-    <img src="Images/PBT223 command table - read.png" alt="alt text" style="width: 100%;">
+<div style="display: flex; justify-content: center;">
+  <img src="Images/PBT223%20command%20table%20-%20read.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
 </div>
+
 
 ### 写指令
-<div style="text-align: center; margin: 10px;">
-    <img src="Images/PBT223 command table - write.png" alt="alt text" style="width: 100%;">
+<div style="display: flex; justify-content: center;">
+  <img src="Images/PBT223%20command%20table%20-%20write.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
 </div>
+
 
 ### 故障信息
-<div style="text-align: center; margin: 10px;">
-    <img src="Images/PBT223 command table - error.png" alt="alt text" style="width: 100%;">
+<div style="display: flex; justify-content: center;">
+  <img src="Images/PBT223%20command%20table%20-%20error.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
 </div>
 
+
 ### EEPROM数据映射
-<div style="text-align: center; margin: 10px;">
-    <img src="Images/PBT223 EEPROM map.png" alt="alt text" style="width: 100%;">
+<div style="display: flex; justify-content: center;">
+  <img src="Images/PBT223%20EEPROM%20map.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
 </div>
+
 
 
 ## 图纸
 ### 2D图纸
 [2D图纸：下载链接](https://example.com/path/to/2D_drawing.zip)
-<p align="center">
-  <img src="Images/PBT223-Fixed 2D.png" alt="alt text" height="200">
-</p>
+
+<div style="display: flex; justify-content: center;">
+  <img src="Images/PBT223-fixed%202D%20with%20dimension.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
+  <img src="Images/PBT223-ADJ%202D%20with%20dimension.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
+</div>
 
 
 
 ### 3D模型
 [3D模型：下载链接](https://example.com/path/to/2D_drawing.zip)
-<table style="width: 100%;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="Images/PBT223-Fixed 3D top view.png" style="height: 175px;">
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="Images/PBT223-ADJ 3D top view.png" style="height: 175px;">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center;">
+  <img src="Images/PBT223-fixed%20with%20OLED%20side%20view.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
+  <img src="Images/PBT223-ADJ%20side%20with%20OLED.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
+</div>
 
-
+<div style="display: flex; justify-content: center;">
+  <img src="Images/PBT223-fixed-side-view.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
+  <img src="Images/PBT223-ADJ-side-view.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
+</div>
 
 
 ## 功能方框图
-<p align="center">
-  <img src="Images/PBT223 block diagram.png" alt="alt text" height="300">
-</p>
+<div style="display: flex; justify-content: center;">
+  <img src="Images/PBT223%20block%20diagram.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
+</div>
 
 
 
@@ -109,9 +106,10 @@
       <li><strong>技术支持：</strong> <a href="mailto:tech@altita-tech.com">tech@altita-tech.com</a></li>
     </ul>
   </div>
-  <div>
-    <img src="Images/Altita%20&%20Logo.png" alt="alt text" height="80">
-  </div>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <img src="Images/Altita%20&%20Logo.png" style="max-width: 100%; height: auto; margin: 20px 10px;">
 </div>
 
 
