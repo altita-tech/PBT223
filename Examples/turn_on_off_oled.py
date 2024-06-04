@@ -28,7 +28,7 @@ if __name__ == "__main__":
     # Turn OFF OLED display ====================
     buck.set_oled_off()
     oled_state = buck.read_oled_state()
-    if oled_state == True:
+    if oled_state == False:
         print("Successfully turn OFF the OLED display")
     else:
         print("Failed to turn OFF the OLED display")

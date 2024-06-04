@@ -28,7 +28,7 @@ if __name__ == "__main__":
     # Turn OFF DC/DC buck
     buck.turn_off()
     buck_state = buck.read_buck_state()
-    if buck_state == True:
+    if buck_state == False:
         print("Successfully turn OFF the DC/DC buck")
     else:
         print("Failed to turn OFF the DC/DC buck")

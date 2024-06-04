@@ -1,6 +1,7 @@
 """
 Example: On PBT223 Fixed/ADJ, write data to EEPROM address, then read data from address to verify 
 """
+
 import sys
 import os
 # Add the parent directory to the Python path
