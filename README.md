@@ -17,10 +17,18 @@
 * **Python API & 例程代码：** Python语言，支持windows和Linux系统
 工作温度范围：-40 - 85 ℃
 
-<div style="display: flex; justify-content: center;">
-  <img src="Images/PBT223-Fixed%20top%20view.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
-  <img src="Images/PBT223-ADJ-DAC-4095.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
-</div>
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td style="width: 50%;">
+      <img src="Images/PBT223-fixed-top-view.png" style="height: auto; margin: 10px 10px;">
+    </td>
+    <td style="width: 50%;">
+      <img src="Images/PBT223-ADJ-DAC-4095.png" style="height: auto; margin: 10px 10px;">
+    </td>
+  </tr>
+</table>
+
+
 
 
 ## 产品选型表
@@ -70,24 +78,40 @@
 ### 2D图纸
 [2D图纸：下载链接](https://example.com/path/to/2D_drawing.zip)
 
-<div style="display: flex; justify-content: center;">
-  <img src="Images/PBT223-fixed%202D%20with%20dimension.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
-  <img src="Images/PBT223-ADJ%202D%20with%20dimension.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
-</div>
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td style="width: 45%;">
+      <img src="Images/PBT223-fixed-2D-with-dimension.png" style="width: 100%; height: auto; margin: 10px 10px;">
+    </td>
+    <td style="width: 45%;">
+      <img src="Images/PBT223-ADJ-2D-with-dimension.png" style="width: 100%; height: auto; margin: 10px 10px;">
+    </td>
+  </tr>
+</table>
 
 
 
 ### 3D模型
 [3D模型：下载链接](https://example.com/path/to/2D_drawing.zip)
-<div style="display: flex; justify-content: center;">
-  <img src="Images/PBT223-fixed%20with%20OLED%20side%20view.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
-  <img src="Images/PBT223-ADJ%20side%20with%20OLED.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
-</div>
 
-<div style="display: flex; justify-content: center;">
-  <img src="Images/PBT223-fixed-side-view.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
-  <img src="Images/PBT223-ADJ-side-view.png" style="max-width: 45%; height: auto; margin: 10px 10px;">
-</div>
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td style="width: 45%;">
+      <img src="Images/PBT223-fixed-with-OLED.png" style="width: 100%; height: auto; margin: 10px 10px;">
+    </td>
+    <td style="width: 45%;">
+      <img src="Images/PBT223-ADJ-with-OLED.png" style="width: 100%; height: auto; margin: 10px 10px;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 45%;">
+      <img src="Images/PBT223-fixed-side-view.png" style="width: 100%; height: auto; margin: 10px 10px;">
+    </td>
+    <td style="width: 45%;">
+      <img src="Images/PBT223-ADJ-side-view.png" style="width: 100%; height: auto; margin: 10px 10px;">
+    </td>
+  </tr>
+</table>
 
 
 ## 功能方框图
