@@ -142,6 +142,11 @@
 </table>
 
 
+## 视频教程
+[![YouTube Video](https://img.youtube.com/vi/u5DF7IkggZc/0.jpg)](https://www.youtube.com/watch?v=u5DF7IkggZc)
+
+
+
 ## 功能方框图
 <table style="width:100%; text-align:center;">
   <tr>
