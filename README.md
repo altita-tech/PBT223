@@ -76,7 +76,7 @@
 
 ## 图纸
 ### 2D图纸
-[2D图纸：下载链接](https://example.com/path/to/2D_drawing.zip)
+[2D图纸：下载链接](https://altita-tech.com/wp-content/uploads/PBT223/PBT223%202D.zip)
 
 <table style="width:100%; text-align:center;">
   <tr>
@@ -92,7 +92,7 @@
 
 
 ### 3D模型
-[3D模型：下载链接](https://example.com/path/to/2D_drawing.zip)
+[3D模型：下载链接](https://altita-tech.com/wp-content/uploads/PBT223/PBT223%203D.zip)
 
 <table style="width:100%; text-align:center;">
   <tr>
