@@ -28,6 +28,9 @@
   </tr>
 </table>
 
+<div style="display: flex; justify-content: center;">
+  <img src="Images/DAC-vs-Vout.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
+</div>
 
 
 
