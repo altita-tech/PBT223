@@ -28,9 +28,17 @@
   </tr>
 </table>
 
-<div style="display: flex; justify-content: center;">
-  <img src="Images/DAC-vs-Vout.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
-</div>
+
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td style="width: 100%; margin: 0 auto;">
+      <img src="Images/DAC-vs-Vout.png" style="max-width: 100%; height: auto; margin: 10px;">
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
@@ -53,27 +61,44 @@
 
 ## 通讯协议
 ### 读指令
-<div style="display: flex; justify-content: center;">
-  <img src="Images/PBT223-command-read.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
-</div>
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="Images/PBT223-command-read.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
+    </td>
+  </tr>
+</table>
 
 
 ### 写指令
-<div style="display: flex; justify-content: center;">
-  <img src="Images/PBT223-command-write.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
-</div>
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="Images/PBT223-command-write.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
+    </td>
+  </tr>
+</table>
 
 
 ### 故障信息
-<div style="display: flex; justify-content: center;">
-  <img src="Images/PBT223-command-error.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
-</div>
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="Images/PBT223-command-error.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
+    </td>
+  </tr>
+</table>
+
 
 
 ### EEPROM数据映射
-<div style="display: flex; justify-content: center;">
-  <img src="Images/PBT223-EEPROM-map.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
-</div>
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="Images/PBT223-EEPROM-map.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
+    </td>
+  </tr>
+</table>
 
 
 
@@ -118,10 +143,13 @@
 
 
 ## 功能方框图
-<div style="display: flex; justify-content: center;">
-  <img src="Images/PBT223-block-diagram.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
-</div>
-
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="Images/PBT223-block-diagram.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
+    </td>
+  </tr>
+</table>
 
 
 ## 联系我们
@@ -135,8 +163,10 @@
   </div>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <img src="Images/Altita&Logo.png" style="max-width: 100%; height: auto; margin: 20px 10px;">
-</div>
-
-
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td style="width: 100%;">
+      <img src="Images/Altita&Logo.png" style="max-width: 100%; height: auto; margin: 10px 10px;">
+    </td>
+  </tr>
+</table>
